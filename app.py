@@ -324,7 +324,7 @@ elif page == "Water Source Map":
         landcolor="#eef3f5",
         showocean=True,
         oceancolor="#dceff7",
-        showcities=True,
+        
     )
 
     fig.update_layout(
